@@ -276,7 +276,7 @@ class Court {
 
         //background
         let ctx = canvas.getContext('2d');
-        ctx.fillStyle = "#0D98BA";
+        ctx.fillStyle = "#7393B3";
         ctx.fillRect(0,0,SETTINGS.width, SETTINGS.height);
 
         // margin on top
